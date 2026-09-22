@@ -30,7 +30,7 @@ Creamos una vista que combina clientes y pedidos ocultando la complejidad del `J
 
 ![Evidencia](./images/2_2.png)
 
-**Inconvenientes:** [describir si hubo alguno]
+**Inconvenientes:** Saltaron los siguiente errores pero se ejecutó correctamente.
 
 ![Evidencia inconveniente](./images/2_2_err.png)
 
@@ -50,7 +50,7 @@ Encapsulamos la lógica de negocio de añadir una línea de pedido dentro de un 
 
 ![Evidencia](./images/3_2.png)
 
-**Inconvenientes:** [describir si hubo alguno]
+**Inconvenientes:** Saltaron los siguiente errores pero se ejecutó correctamente.
 
 ![Evidencia inconveniente](./images/3_2_err.png)
 
@@ -64,7 +64,7 @@ Creamos una función escalar que devuelve el total de un pedido sumando sus lín
 
 ![Evidencia](./images/4_1.png)
 
-**Inconvenientes:** [describir si hubo alguno]
+**Inconvenientes:** Saltaron los siguiente errores pero se ejecutó correctamente.
 
 ![Evidencia inconveniente](./images/4_1_err.png)
 
@@ -72,7 +72,7 @@ Creamos una función escalar que devuelve el total de un pedido sumando sus lín
 
 ![Evidencia](./images/4_2.png)
 
-**Inconvenientes:** [describir si hubo alguno]
+**Inconvenientes:** Saltaron los siguiente errores pero se ejecutó correctamente.
 
 ![Evidencia inconveniente](./images/4_2_err.png)
 
@@ -92,7 +92,7 @@ Creamos una TVF que devuelve los pedidos de un cliente concreto, útil en cláus
 
 ![Evidencia](./images/5_2.png)
 
-**Inconvenientes:** [describir si hubo alguno]
+**Inconvenientes:** Saltaron los siguiente errores pero se ejecutó correctamente.
 
 ![Evidencia inconveniente](./images/5_2_err.png)
 
@@ -100,7 +100,7 @@ Creamos una TVF que devuelve los pedidos de un cliente concreto, útil en cláus
 
 ![Evidencia](./images/5_3.png)
 
-**Inconvenientes:** [describir si hubo alguno]
+**Inconvenientes:** Saltaron los siguiente errores pero se ejecutó correctamente.
 
 ![Evidencia inconveniente](./images/5_3_err.png)
 
@@ -120,7 +120,7 @@ Añadimos un trigger que loguea automáticamente los cambios en el total de un p
 
 ![Evidencia](./images/6_2.png)
 
-**Inconvenientes:** [describir si hubo alguno]
+**Inconvenientes:** Saltaron los siguiente errores pero se ejecutó correctamente.
 
 ![Evidencia inconveniente](./images/6_2_err.png)
 
