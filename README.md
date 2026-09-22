@@ -125,7 +125,3 @@ Añadimos un trigger que loguea automáticamente los cambios en el total de un p
 ![Evidencia inconveniente](./images/6_2_err.png)
 
 ---
-
-> 📎 **Recursos**  
-> - [Módulo teórico – Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/design-implement-database-objects/)  
-> - [Lab oficial – Microsoft Learning](https://microsoftlearning.github.io/mslearn-sql-developer/Instructions/Labs/02-implement-programmability-objects.html)
